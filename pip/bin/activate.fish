@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/bea/Documents/Python/IPS/Django/IP2/pip"
+set -gx VIRTUAL_ENV "/home/bea/Documents/Python/IPS/Django_Framework_projects/IP2/pip"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
